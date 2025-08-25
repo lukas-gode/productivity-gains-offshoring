@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
+_targets/
+misc/
+templates/
+paper/
+si/
+outputs/
+README.html
